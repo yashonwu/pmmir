@@ -1,9 +1,7 @@
 # pmmir
 Personalised Multi-Modal Interactive Recommendation
 
-## Datasets
-
-Currently, we provide 2 datasets (Amazon-Shoes & Amazon-Dresses) for the multi-modal interactive recommendation task. Here we illustrate how to use the provided tools to generate and clearn the datasets.
+Currently, we provide 2 datasets (Amazon-Shoes & Amazon-Dresses) for the multi-modal interactive recommendation task. Here we illustrate how we generate and clean the datasets.
 
 ### Amazon-Shoes
 
